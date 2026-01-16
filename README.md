@@ -1,3 +1,7 @@
+### `main.ahk`
+
+Daily [AutoHotKey](https://www.autohotkey.com/) shortcut keys.
+
 ### compress_pdf.bat
 
 Compress PDFs in a folder using GhostScript (Windows version).
