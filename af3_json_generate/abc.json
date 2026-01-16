@@ -1,0 +1,44 @@
+[
+  {
+    "name": "protein_a",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "FAPOGIUPQOEJOHJA0IUFPEOQNGAOIGUJEQPOGHAPOGEHPOGNEQOUGHNBEQUI9GHQPBGUIEQHGQPHOIHGEPQUHOIHNU9HNFUIJBGQPGHEQGHPGQPHOIHGEPQUHOIHNU9HNFUIJBGQPGHEQGHP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "FAPOGIUPQOEJOHJA0IUFPEOQNGAOIGUJEQPOGHAPOGEHPOGNEQOUGHNBEQUI9GHQPBGUIEQHGQPHOIHGEPQUHOIHNU9HNFUIJBGQPGHEQGHPGQPHOIHGEPQUHOIHNU9HNFUIJBGQPGHEQGHP",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "protein_b",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "FAPOGIUPQOEJOHJA0IUFPEOQNGAOIGUJEQPOGHAPOGEHPOGNEQOUGHNBEQUI9GHQPBGUIEQHGQPHOIHGEPQUHOIHNU9HNFUIJBGQPGHEQGHPGQPHOIHGEPQUHOIHNU9HNFUIJBGQPGHEQGHP",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "protein_c",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "FAPOGIUPQOEJOHJA0IUFPEOQNGAOIGUJEQPOGHAPOGEHPOGNEQOUGHNBEQUI9GHQPBGUIEQHGQPHOIHGEPQUHOIHNU9HNFUIJBGQPGHEQGHPGQPHOIHGEPQUHOIHNU9HNFUIJBGQPGHEQGHP",
+          "count": 1
+        }
+      }
+    ]
+  }
+]
